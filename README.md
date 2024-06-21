@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I work for [OSC](https://www.osc.edu/), primarily helping to maintain [Open OnDemand](https://github.com/OSC/ondemand/). My pronouns are they/them.
+
 <!--
 **HazelGrant/HazelGrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
